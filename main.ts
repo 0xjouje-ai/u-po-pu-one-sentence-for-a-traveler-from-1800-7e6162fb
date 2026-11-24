@@ -6,7 +6,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const SENTENCE =
-  "It is a road of light joining every post office and library on earth, so a letter you send reaches any town in a breath, and a man may read the books of every land from his own desk.";
+  "It is a road of light joining every post office and library on earth, so a letter you send reaches any town in a breath, and a man may read the books of every land without leaving his desk.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", SENTENCE + "\n", "utf8");

@@ -17,7 +17,7 @@ of features, just a picture they could actually hold in their mind.
 `main.ts` (Node 22, stdlib only, deterministic, no network) writes the sentence
 to `/output/entry.txt`:
 
-> It is a road of light joining every post office and library on earth, so a letter you send reaches any town in a breath, and a man may read the books of every land from his own desk.
+> It is a road of light joining every post office and library on earth, so a letter you send reaches any town in a breath, and a man may read the books of every land without leaving his desk.
 
 The sentence builds only on things a person from 1800 already knows — a road,
 a post office, a library — and says what the internet does in one image: letters
